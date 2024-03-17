@@ -1,6 +1,11 @@
 # Armored Vehicles Classification with YOLO
 
-This project is a Python program that utilizes the YOLO model to classify armored vehicles in photos. The program is capable of recognizing tanks, infantry fighting vehicles (IFVs), and armored personnel carriers (APCs).
+This project is a Python program that utilizes the YOLO model to classify armored vehicles in photos and videos. The program is capable of recognizing tanks, infantry fighting vehicles (IFVs), and armored personnel carriers (APCs), which could be used in military area - for example for FPV-kamikadze-drones programming. 
+
+To upload weights to model: 
+    ```
+    https://drive.google.com/file/d/1pA9k5kqCmOK1UYL6AFAtZJlu9YG8A5TO/view?usp=sharing
+    ```
 
 ## Installation
 
