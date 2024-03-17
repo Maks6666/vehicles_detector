@@ -1,1 +1,2 @@
+*.pt filter=lfs diff=lfs merge=lfs -text
 /Users/maxkucher/Desktop/military_vehicles_detection/best.pt filter=lfs diff=lfs merge=lfs -text
